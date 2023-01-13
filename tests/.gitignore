@@ -1,4 +1,4 @@
-userFile.js
+user.js
 Thumbs.db*
 .DS_Store
 HELP.md
@@ -33,6 +33,7 @@ data/
 *.zip
 *.tar.gz
 *.rar
+*.idea
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
